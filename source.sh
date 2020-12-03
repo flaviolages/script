@@ -21,7 +21,7 @@ apt upgrade -y
 
 
 ##### UTILS
-apt install unzip unrar net-tools git curl ffmpeg -y
+apt install unzip unrar net-tools git curl ffmpeg build-essential -y
 
 
 
