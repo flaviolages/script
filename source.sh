@@ -21,7 +21,7 @@ apt upgrade -y
 
 
 ##### UTILS
-apt install unzip unrar net-tools git curl -y
+apt install unzip unrar net-tools git curl ffmpeg -y
 
 
 
