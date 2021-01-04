@@ -27,3 +27,8 @@ apt install unzip unrar net-tools git curl ffmpeg build-essential -y
 
 ##### NETWORK TOOLS
 apt install tcpdump nmap arpon arping -y
+
+
+###### NODEJS
+curl -sL https://deb.nodesource.com/setup_current.x | bash -
+apt-get install -y nodejs
